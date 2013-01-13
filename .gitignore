@@ -34,3 +34,5 @@ wp-content/themes/*
 !wp-content/themes/starkers/
 
 .DS_Store
+/.DS_Store
+/wp-content/themes/starkers
